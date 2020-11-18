@@ -23,4 +23,4 @@
 
 点击[这里](https://www.google.com/)可以找到我（哈哈没有自己的网页，先加Google的）
 
-[我的艳照](puppy.jpeg)
+![我的艳照](puppy.jpeg)
